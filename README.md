@@ -40,9 +40,8 @@ Welcome to my GitHub profile! I’m a final-year student pursuing Information Te
 ## 📫 How to Reach Me
 
 - 🔗 **GitHub**: [github.com/Suyash-ag](https://github.com/Suyash-ag)  
-- 📧 **Email**: suyash@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/Suyash-ag](https://www.linkedin.com/in/Suyash-ag)  
-- 🐦 **Twitter/X**: [@Suyash_ag](https://twitter.com/Suyash_ag)
+- 📧 **Email**: suyashagarwal132@example.com  
+- 💼 **LinkedIn**: [linkedin.com/in/Suyash-ag]([https://www.linkedin.com/in/Suyash-ag](https://www.linkedin.com/in/suyash-agarwal-9b08b924b/))  
 
 ---
 
