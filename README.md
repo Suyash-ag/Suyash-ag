@@ -1,50 +1,60 @@
-# Hi there, I’m Suyash 👋
+<h1 align="center">👋 Hey there, I'm Suyash!!</h1>
 
-Welcome to my GitHub profile! I’m a final-year student pursuing Information Technology, passionate about technology, marketing, and creative storytelling. Here’s a quick snapshot of who I am and what I’m working on.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link.png" width="200" />
+</p>
 
----
-
-## 🎯 About Me
-
-- 🎓 **Education**: Final-year undergraduate student specializing in Information Technology.
-- 📚 **Academic & Research**:
-  - Currently working on an IEEE-format research paper titled **“Next Generation Credit Card Fraud Detection Using State-of-the-Art ML and DL Algorithms.”**
-  - Prepared for strategic marketing exams and trained in consumer behavior, branding, and market research.
-- 💻 **Tech Interests**:
-  - Proficient in **C++** (especially data structures and algorithms).
-  - Exploring **Go (Golang)** and **Kubernetes** for open-source contributions.
----
-
-## 🔧 Skills & Tools
-
-| Category             | Skills & Technologies                                  |
-| -------------------- | ------------------------------------------------------ |
-| Programming          | C++, Python, Go (Golang), JavaScript/Node.js           |
-| Web & DevOps         | HTML/CSS, React, Docker, Kubernetes                    |
-| Databases & Services | MongoDB, Redis, Zoho CRM integration, RESTful APIs     |
-| Embedded Systems     | STM32 microcontrollers, Arduino, Ultrasonic sensors    |
-| Data Science & ML    | pandas, NumPy, scikit-learn, TensorFlow (exploring)    |
-| Marketing & Business | Market research, Consumer behavior, Strategic marketing|
-| Tools & Platforms    | Git/GitHub, VS Code, Postman, Jira, Trello             |
+<p align="center">
+  I'm a <strong>Software Engineer</strong>, a <strong>Developer</strong> and a <strong>Designer</strong> 🌌<br>
+  Passionate about building cool stuff, solving problems & exploring systems.
+</p>
 
 ---
 
-## 🔭 Currently Learning & Exploring
+### 🧑‍💻 About Me
 
-- **Open Source Contribution**: Building confidence in Go and Kubernetes, planning to contribute to CNCF projects.
-- **Full-Stack Development**: Deepening React skills and integrating with Node.js backends.
-- **Advanced ML/DL**: Experimenting with Transformer architectures for anomaly detection.
-
----
-
-## 📫 How to Reach Me
-
-- 🔗 **GitHub**: [github.com/Suyash-ag](https://github.com/Suyash-ag)  
-- 📧 **Email**: suyashagarwal132@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/Suyash-ag]([https://www.linkedin.com/in/Suyash-ag](https://www.linkedin.com/in/suyash-agarwal-9b08b924b/))  
+- 🎓 I'm in my final year at IIITM Gwalior
+- 💡 I’m currently diving deeper into DSA & System Design
+- ✉️ Reach out to me at: [Email](mailto:youremail@gmail.com)
+- 🌐 Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
 
 ---
 
-> “Curiosity fuels innovation, and collaboration turns ideas into impact.”
+### 🚀 Languages and Tools:
 
-Thanks for stopping by—let’s connect, collaborate, and build something great! 🚀
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- Add more badges as needed -->
+</p>
+
+---
+
+### 🌌 Tech Stack Galaxy
+
+> “Your contributions are the stars you leave in the universe of code.”
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
